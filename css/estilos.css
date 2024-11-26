@@ -67,6 +67,13 @@ header {
   border-radius: 50%;
 }
 
+#nuevo .card {
+  & img {
+    height: 200px;
+    object-fit: cover;
+  }
+}
+
 .btn-up {
   position: fixed;
   bottom: 10px;

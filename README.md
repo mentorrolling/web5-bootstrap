@@ -5,6 +5,6 @@ Segundo parrafo del README para hacer otro commit
 ¿Qué hace git reset?
 git reset es como una máquina del tiempo que te permite "volver atrás" en diferentes niveles:
 
-📷 El historial de fotos (commits).
+📷 El historial de capturas de versión nueva (commits).
 📦 El paquete de herramientas (staging area).
 🌱 El jardín actual (working directory).
